@@ -12,7 +12,7 @@
         p Место работы:
       .info
         p 21 октября 1993г.
-        p Кишинёв
+        p(contenteditable spellcheck="false") Кишинёв
         p(contenteditable spellcheck="false") Empire of Stasyan (Стас / Stas)
         p.more Показать подробную информацию
 </template>
