@@ -2,7 +2,7 @@
   .user-menu
     .upper-container.flex.justify-between.items-center
       h1.name(contenteditable spellcheck="false") Ильяс Юзбашев
-      p.last-onlone заходил сегодня в 2:58
+      p.last-onlone(contenteditable spellcheck="false") заходил сегодня в 2:58
     p.status(contenteditable spellcheck="false") настоящее имя равиль
     .line
     .info-block.flex.justify-start
